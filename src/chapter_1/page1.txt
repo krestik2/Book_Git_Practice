@@ -1,0 +1,5 @@
+This is chapter1-> new->File
+
+page1 typing info
+
+Created a project and a file
