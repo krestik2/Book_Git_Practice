@@ -3,3 +3,5 @@ Page 2 of Chapter 1
 practicing
 
 writing a book
+
+I edited page 2 after I commit it

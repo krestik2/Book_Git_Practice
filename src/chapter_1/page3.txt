@@ -1,0 +1,7 @@
+This is page 3 of Chapter 1
+
+Local repostery
+
+Commit it
+
+I edited page 2 after I commit it
